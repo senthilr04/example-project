@@ -1,6 +1,13 @@
+typescripcript
 java
 kotlin
 scala
 ruby
 javascript
-c++
+rust
+java
+kotlin
+scala
+ruby
+javascript
+rust
