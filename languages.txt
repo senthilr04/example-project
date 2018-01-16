@@ -9,5 +9,3 @@ java
 kotlin
 scala
 ruby
-javascript
-rust
